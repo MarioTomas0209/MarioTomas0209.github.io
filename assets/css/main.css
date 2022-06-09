@@ -148,6 +148,9 @@ input, select, textarea {
 		color: #fff;
 		margin: 0 0 0.75em 0;
 	}
+	.style1 h3{
+		color: #000;
+	}
 	
 	h2{
 		color: #fff;
@@ -2005,12 +2008,10 @@ input, select, textarea {
 
 		.wrapper.style2 {
 			background-color: #605194;
-			text-shadow: 1px 1px 0px #fff;
 		}
 
 		.wrapper.style3 {
 			background-color: #605194;
-			text-shadow: 1px 1px 0px #fff;
 		}
 
 		.wrapper.style4 {
